@@ -3,7 +3,7 @@ import ProductsCards from "../components/ProductsCards";
 import CategoryCards from "../components/CategoryCards";
 import Banners from "../components/Banners";
 import HotCategories from "../components/HotCategories";
-import Popup from "../components/PopUp";
+// import Popup from "../components/PopUp";
 import Footer from "../components/Footer";
 
 export default function Home() {
@@ -18,7 +18,7 @@ export default function Home() {
       <ProductsCards />
       <CategoryCards />
       <HotCategories />
-      <Popup />
+      {/* <Popup /> */}
 
 
     </>
